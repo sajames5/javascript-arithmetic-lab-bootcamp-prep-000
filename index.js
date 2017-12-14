@@ -6,4 +6,4 @@ function inc(a) {return a + 1}
 function dec(a) {return a - 1}
 function makeInt(a) {return a}
 var number = 0
-var num = 52
+var num = 2328
