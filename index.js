@@ -5,6 +5,3 @@ function divide(a,b) {return a / b}
 function inc(a) {return a + 1}   
 function dec(a) {return a - 1}
 function makeInt(a) {return a}
-var number = 0
-var num = 2328
-function multiply(number,num) {return number}
